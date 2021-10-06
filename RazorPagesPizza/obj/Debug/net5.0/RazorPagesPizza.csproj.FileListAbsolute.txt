@@ -38,3 +38,4 @@ Z:\OneDrive\AULAS\c sharp\exemplosSlides\aulasFoa20212\RazorPagesPizza\obj\Debug
 Z:\OneDrive\AULAS\c sharp\exemplosSlides\aulasFoa20212\RazorPagesPizza\obj\Debug\net5.0\RazorPagesPizza.pdb
 Z:\OneDrive\AULAS\c sharp\exemplosSlides\aulasFoa20212\RazorPagesPizza\obj\Debug\net5.0\RazorPagesPizza.genruntimeconfig.cache
 Z:\OneDrive\AULAS\c sharp\exemplosSlides\aulasFoa20212\RazorPagesPizza\obj\Debug\net5.0\RazorPagesPizza.csproj.CopyComplete
+Z:\OneDrive\AULAS\c sharp\exemplosSlides\aulasFoa20212\RazorPagesPizza\obj\Debug\net5.0\Razor\Pages\Pizza.cshtml.g.cs
